@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+Website where you can search and view food recipes. Created using React.
+[See it live](https://sabreen-pa.github.io/food-recipes/)
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
